@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-component
+  annotations:
+    backstage.io/source-location: url:https://github.com/your-org/your-repo
+    github.com/project-slug: your-org/your-repo
+spec:
+  type: service
+  owner: team-a
+  lifecycle: production
