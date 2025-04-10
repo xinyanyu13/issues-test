@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: my-component
+  name: test-github
   annotations:
     backstage.io/source-location: url:https://github.com/xinyanyu13/issues-test
     github.com/project-slug: reply/dssp
 spec:
   type: service
-  owner: team-a
-  lifecycle: production
+  owner: xinyanyu13
+  lifecycle: development
