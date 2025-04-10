@@ -4,7 +4,7 @@ metadata:
   name: test-github
   annotations:
     backstage.io/source-location: url:https://github.com/xinyanyu13/issues-test
-    github.com/project-slug: reply/dssp
+    github.com/project-slug: xinyanyu13/issues-test
 spec:
   type: service
   owner: xinyanyu13
