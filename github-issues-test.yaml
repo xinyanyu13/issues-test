@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: xinyanyu13/issues-test
 spec:
   type: service
-  owner: xinyanyu13
+  owner: bu2/xyu
   lifecycle: development
